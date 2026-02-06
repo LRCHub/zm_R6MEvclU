@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Take on Me",
+  "base_artist": "a-ha",
+  "createdAt": "2026-02-06T07:31:58.155995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take On Me",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/01_Take_On_Me_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01 - Take On Me",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/02_01_-_Take_On_Me_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take On Me",
+      "artist": "A-Ha",
+      "has_synced": true,
+      "path": "select/03_Take_On_Me_A-Ha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take On Me",
+      "artist": "Cap'n Jazz",
+      "has_synced": true,
+      "path": "select/04_Take_On_Me_Cap'n_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lesson One - Autumn 1982 \"Take On Me\" Demo",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/05_Lesson_One_-_Autumn_1982__Take_On_Me__Demo_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lesson One (Autumn 1982 “Take on Me” demo)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/06_Lesson_One_(Autumn_1982_“Take_on_Me”_demo)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take On Me",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/07_Take_On_Me_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take On Me",
+      "artist": "D.A.",
+      "has_synced": true,
+      "path": "select/08_Take_On_Me_D.A..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take On Me - 1984 12\" Mix",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/09_Take_On_Me_-_1984_12__Mix_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take on Me (1984 12″ mix)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/10_Take_on_Me_(1984_12′′_mix)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take on Me - 1985 Single Mix; 2015 Remaster",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/11_Take_on_Me_-_1985_Single_Mix;_2015_Remaster_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take on Me (1985 12″ mix)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/12_Take_on_Me_(1985_12′′_mix)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take On Me - Demo",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/13_Take_On_Me_-_Demo_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take on Me (demo)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/14_Take_on_Me_(demo)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take on Me - Single Version; 2015 Remaster",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/15_Take_on_Me_-_Single_Version;_2015_Remaster_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take on Me (original 7″ version 1984)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/16_Take_on_Me_(original_7′′_version_1984)_a‐ha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take On Me",
+      "artist": "a-ha",
+      "has_synced": false,
+      "path": "select/pl_01_Take_On_Me_a-ha.txt"
+    }
+  ]
+}
